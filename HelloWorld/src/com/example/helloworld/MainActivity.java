@@ -7,7 +7,7 @@ import android.view.Menu;
 
 public class MainActivity extends Activity {
 
-	String msg = "Android : ";
+	String msg = "Android msg: ";
 	   
 	   /** Called when the activity is first created. */
 	   @Override
